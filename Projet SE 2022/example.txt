@@ -1,0 +1,12 @@
+R1 = E : B , D , F
+R2 = A : D , G
+R3 = A : C , E
+R4 = K : B
+R5 = F : D
+R6 = S : A , K
+R7 = D : C
+R8 = A : K , C
+R8 = Z : K , C
+R9 = D : B , K
+R10 = Z : X
+R10 = Z : X
